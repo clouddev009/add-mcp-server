@@ -1,4 +1,4 @@
-from src.tool.add_tool import mcp
+from tool.add_tool import mcp
 
 def main():
     mcp.run()
